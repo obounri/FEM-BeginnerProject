@@ -59,6 +59,10 @@ h1 {
     justify-content: flex-start;
     padding-left: 1em;
     align-items: center;
-    height: 20%;
+    flex: 1;
     font-size: 1.5em;
+}
+
+img {
+    width: 100%;
 }
