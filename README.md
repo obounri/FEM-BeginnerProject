@@ -1,5 +1,6 @@
 # FLEX
-Static page using HTML and CSS.  
+Simple web page using HTML, CSS and a bit of JavaScript.  
+Loads new image when requested without refreshing the page.
   
-  ![Screenshot 2022-07-20 at 20-56-28 My newspaper](https://user-images.githubusercontent.com/16053399/180070403-93bc058d-92d3-4d48-bc82-d7097b7805ac.png)
 
+![newspaper](https://user-images.githubusercontent.com/16053399/181908550-c611475c-ca25-4ae3-8399-9e9348a6d398.png)
